@@ -9,13 +9,14 @@ Nama :
 Kelas : 17-S1TK-01
 
 Final Project
-  Memiliki Tema Jaringan bergabung dengan cybersecurity yang dimana Program ini memiliki 2 Pilihan fitur yang terdapat di dalam program tersebut.
+  Memiliki Tema Jaringan bergabung dengan password random yang dimana Program ini memiliki 2 Pilihan fitur yang terdapat di dalam program tersebut.
   Tema Jaringan disini kita memilih IP Class Checking, untuk mempermudah pengguna untuk melihat IP Addressnya termasuk ke kelas mana
-  Tema Cybersecurity disini kita memilih  Encrypt dan Decrypt yang dimana plain text akan di enkripsi. dan dekripsi sebaliknya.
+  dimana kita disini membuat fungsi untuk merandom password yang ada dan dapat digunakan
   
 Tools:
  1. Dev C++
   
   Source :
   https://www.includehelp.com/c-programs/find-class-of-an-ip-address.aspx
+  https://www.includehelp.com/cpp-programs/generate-random-password.aspx
   
