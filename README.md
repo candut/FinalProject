@@ -11,7 +11,7 @@ Kelas : 17-S1TK-01
 Final Project
   Memiliki Tema Jaringan bergabung dengan password random yang dimana Program ini memiliki 2 Pilihan fitur yang terdapat di dalam program tersebut.
   Tema Jaringan disini kita memilih IP Class Checking, untuk mempermudah pengguna untuk melihat IP Addressnya termasuk ke kelas mana
-  dimana kita disini membuat fungsi untuk merandom password yang ada dan dapat digunakan
+  dimana kita disini membuat fungsi untuk merandom password yang ada dan dapat digunakan, selain itu program ini juga dapat membantu para pemula dalam menentukan class dari IP yang di masukkan
   
 Tools:
  1. Dev C++
